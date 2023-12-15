@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BettercallKevin
+- 👋 Hi, I’m @BettercallKevin aka Kevin Anthony.
 - 👀 I’m interested in data engineering, cloud computing and no-code.
 - 🌱 I’m currently learning how to use properly AWS.
-- 💞️ I’m looking to collaborate on any data pipeline project.
+- 💞️ I’m looking to collaborate on any data engineering projects: data pipeline, cloud architecture or deployment.
 - 📫 How to reach me: send me an inbox!
 
 <!---
